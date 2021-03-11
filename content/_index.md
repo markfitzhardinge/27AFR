@@ -1,5 +1,5 @@
 ---
-title: "Hugo-Primer"
+title: "2/7th Australian Field Regiment"
 type: "top"
 menu: "main"
 weight: 1
